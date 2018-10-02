@@ -1,3 +1,0 @@
-/Users/lumroule/Desktop/suia/test1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/lumroule/Desktop/suia/test1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/lumroule/Desktop/suia/test1/cmake-build-debug/CMakeFiles/test1.dir
